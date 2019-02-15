@@ -1,2 +1,4 @@
 # Build your say_hello method here
-def say_hell
+def say_hello(name)
+  puts "Hi!"
+end
